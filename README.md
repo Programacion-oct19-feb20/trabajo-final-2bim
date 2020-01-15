@@ -11,6 +11,14 @@ Generar una aplicación que permita gestionar cuentas de ahorros de clientes de 
 
 #### Observaciones:
 - En un archivo denominado clientes.txt existe un listado previo de clientes del banco ya registrados; así como los archivos (cuentas) por cada uno de los clientes que existan en el archivo llamado clientes.txt con su saldo inicial. La cuenta inicial es creada con un saldo de $1000.
+
+Ejemplo: clientes.txt
+```
+Audrey|Anderso|12345
+Sarah|Mitchell|24689
+Jonathan|Torres|12891
+```
+
 - Para el ingreso de nuevos clientes se debe pedir información como:
 	- nombres
 	- apellidos
@@ -23,7 +31,7 @@ cedula.txt y cuyo contenido será:
 saldo|1000.0
 ```
 
-Además la información se debe agregar a un archivo denominado clientes.txt
+Además, la información (nombre, apellidos, cedula) se debe agregar a un archivo denominado clientes.txt
 
 - Para el manejo de depósitos en las cuentas de ahorro, considerar:
 	- Pedir el número de cuenta del cliente (cédula).	

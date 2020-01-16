@@ -1,4 +1,4 @@
-# Fundamentos de programación
+# Introducción a la Programación
 ## Segundo Bimestre
 ### Trabajo Final Individual 
 
